@@ -1,4 +1,4 @@
-# Repositório de Exercícios e Avaliações - Curso de Fotografia Computacional com Ênfase em Inteligência Artificial e Dispositivos Móveis
+# Repositório de Exercícios e Avaliações - Curso de Fotografia Computacional
 
 Bem-vindo ao meu repositório do curso de Fotografia Computacional com ênfase em Inteligência Artificial e Dispositivos Móveis (LuxAI). Aqui, você encontrará os exercícios práticos e avaliações correspondentes às disciplinas do curso.
 
